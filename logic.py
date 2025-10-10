@@ -236,8 +236,8 @@ class GameLogic:
         """Создаёт случайный шарик."""
         x = random.uniform(50, self.width - 50)
         y = random.uniform(50, self.height - 50)
-        vx = random.uniform(-2, 2)
-        vy = random.uniform(-2, 2)
+        vx = random.uniform(-5, 5)
+        vy = random.uniform(-5, 5)
         radius = random.uniform(15, 30)
         color = (
             random.randint(50, 255),

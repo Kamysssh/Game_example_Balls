@@ -18,7 +18,7 @@ WINDOW_WIDTH = 1200
 WINDOW_HEIGHT = 800
 
 # Стартовое количество шариков
-INITIAL_BALLS_COUNT = 30
+INITIAL_BALLS_COUNT = 300
 
 # Цвета
 COLOR_WHITE = (255, 255, 255)
